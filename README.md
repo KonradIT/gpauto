@@ -22,9 +22,9 @@ DCIM MISC gpauto
 
 ```
 .
-├── README.md
 ├── shutter_start = Start shooter on boot
-└── wifi_ap_on = Turn WiFi APP mode on boot
+├── wifi_ap_on = Turn WiFi APP mode on boot
+├── change_wifi_settings = change GoPro Wifi SSID and password
 
 ```
 
